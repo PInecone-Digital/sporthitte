@@ -2,13 +2,13 @@
   "info": [
     {
       "name": "Sporthitte",
-      "description": "A short description about sporthitte",
-      "location": "Address of the store",
-      "locationLink": "",
-      "website": "Website",
-      "phone": "Phone",
-      "coverImage": "",
-      "logoImage": ""
+      "description": "",
+      "location": "Schuer 2, 39030 St. Martin/Gsies, Italy",
+      "locationLink": "https://maps.app.goo.gl/kWjsrGnbGXnFqnAy5",
+      "website": "",
+      "phone": "",
+      "coverImage": "cover.jpeg",
+      "logoImage": "logo.jpg"
     }
   ],
   "menu": [
@@ -18,7 +18,7 @@
       "description": "",
       "items": [
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Espresso",
           "description": "",
@@ -35,7 +35,7 @@
           "addition": []
         },
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Cappuccino",
           "description": "",
@@ -52,7 +52,7 @@
           "addition": []
         },
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Americano",
           "description": "",
@@ -76,7 +76,7 @@
       "description": "",
       "items": [
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Elderflower Juice",
           "description": "",
@@ -97,7 +97,7 @@
           "addition": []
         },
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Soft Drink",
           "description": "(Coke, Coke Zero, Fanta, Sprite, Red Bull)",
@@ -121,7 +121,7 @@
       "description": "",
       "items": [
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Forst Kronen (on tap)",
           "description": "",
@@ -142,7 +142,7 @@
           "addition": []
         },
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Weihenstephan Weizen (on tap)",
           "description": "",
@@ -170,7 +170,7 @@
       "description": "",
       "items": [
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "French Fries",
           "description": "",
@@ -187,7 +187,7 @@
           "addition": []
         },
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Ciabatta Tuna",
           "description": "",
@@ -211,7 +211,7 @@
       "description": "",
       "items": [
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Strawberry Cup",
           "description": "",
@@ -228,7 +228,7 @@
           "addition": []
         },
         {
-          "image": true,
+          "image": false,
           "imageUrl": "",
           "name": "Banana Split",
           "description": "",
